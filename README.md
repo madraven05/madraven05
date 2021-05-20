@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu-kumar&layout=compact)
 
+![](https://komarev.com/ghpvc/?username=pranshu-kumar&color=green)
+
 ## :mailbox_with_mail: Get in touch!
 <p align="center">
 <a href="mailto:pranshu.kumar@iitgn.ac.in">
