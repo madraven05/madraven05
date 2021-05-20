@@ -22,19 +22,19 @@ Here are some ideas to get you started:
 ## :computer: Tools I use
 
 <p align="center">
-<img src="icons/python.png" alt="Python">
-<img src="icons/c.png" alt="C">
-<img src="icons/c++.png" alt="C++">
-<img src="icons/java.png" alt="Java">
-<img src="icons/html.png" alt="HTML5">
-<img src="icons/css.png" alt="CSS">
-<img src="icons/js.png" alt="JS">
-<img src="icons/react-native.png" alt="JS" height="48px">
-<img src="icons/android.png" alt="Android Studio" height="48px">
-<img src="icons/tensorflow.png" alt="Tensorflow">
-<img src="icons/scikit.png" height="40px" alt="Scikit Learn">
-<img src="icons/linux.png" alt="Git">
-<img src="icons/git.png" alt="Linux">
+<img src="icons/python.png" title="Python">
+<img src="icons/c.png" title="C">
+<img src="icons/c++.png" title="C++">
+<img src="icons/java.png" title="Java">
+<img src="icons/html.png" title="HTML5">
+<img src="icons/css.png" title="CSS">
+<img src="icons/js.png" title="Javascript">
+<img src="icons/react-native.png" title="React-Native" height="48px">
+<img src="icons/android.png" title="Android Studio" height="48px">
+<img src="icons/tensorflow.png" title="Tensorflow">
+<img src="icons/scikit.png" height="40px" title="Scikit Learn">
+<img src="icons/linux.png" title="Git">
+<img src="icons/git.png" title="Linux">
 </p>
 
 ## :bar_chart: Github Stats
