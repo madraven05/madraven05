@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="icons/html.png" alt="HTML5">
 <img src="icons/css.png" alt="CSS">
 <img src="icons/js.png" alt="JS">
-<img src="icons/react.png" alt="JS" height="48px">
+<img src="icons/react-native.png" alt="JS" height="48px">
 <img src="icons/android.png" alt="Android Studio" height="48px">
 <img src="icons/tensorflow.png" alt="Tensorflow">
 <img src="icons/scikit.png" height="40px" alt="Scikit Learn">
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <img src="icons/gmail.png">
 </a>
 <a href='https://www.instagram.com/pranshu__05'>
-<img src="icons/instagram.png" height="48px">
+<img src="icons/insta.png" height="48px">
 </a>
 <a href='https://www.linkedin.com/in/pranshu-kumar-gond/'>
 <img src="icons/linkedin.png" height="48px">
