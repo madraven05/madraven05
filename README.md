@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <img src="icons/android.png" title="Android Studio" height="48px">
 <img src="icons/tensorflow.png" title="Tensorflow">
 <img src="icons/scikit.png" height="40px" title="Scikit Learn">
-<img src="icons/linux.png" title="Git">
-<img src="icons/git.png" title="Linux">
+<img src="icons/linux.png" title="Linux">
+<img src="icons/git.png" title="Git">
 </p>
 
 ## :bar_chart: Github Stats
