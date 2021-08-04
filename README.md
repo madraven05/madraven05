@@ -16,7 +16,6 @@ Here are some ideas to get you started:
  ## Hey there! I am Pranshu 👋
 
 * 👨‍🎓 I am a Senior Undergraduate pursuing Computer Science and Engineering at IIT Gandhinagar, India. 
-* 👨‍💼 Currently working as a Software Development Intern @ EarlySalary
 * 🌟 I love to work on projects that have social and economic value. My interests lie in the fields of Data Science, Machine Learning, Software Development and Full Stack Web Development.
 
 ## :computer: Tools I use
