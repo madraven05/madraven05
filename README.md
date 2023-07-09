@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
  ## Hey there! I am Pranshu 👋
 
-* 👨‍🎓 I am a Senior Undergraduate pursuing Computer Science and Engineering at IIT Gandhinagar, India. 
-* 🌟 I love to work on projects that have social and economic value. My interests lie in the fields of Data Science, Machine Learning, Software Development and Full Stack Web Development.
+* 👨‍💻 I am a Software Developer working at Publicis Sapient 
+* 🌟 Having worked on various projects in my company, I want to kickstart my open source journey and contribute to this amazing community!
 
 ## :computer: Tools I use
 
