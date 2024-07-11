@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
  ## Hey there! I am Pranshu 👋
 
-* 👨‍💻 I am a Software Developer working at Publicis Sapient 
-* 🌟 Having worked on various projects in my company, I want to kickstart my open source journey and contribute to this amazing community!
+* 👨‍💻 I am an aspiring Game Developer
 
 
