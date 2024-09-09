@@ -3,13 +3,23 @@
 I'm a **Full-stack Developer** passionate about building scalable web applications and creative 3D experiences.
 ## 🔧 Tech Stack & Tools
 
-- **Languages**: JavaScript, TypeScript, Python, Java
-- **Frontend**: React, Next.js, Tailwind CSS, Three.js
-- **Backend**: Spring Boot, Node.js, Express.js
-- **Databases**: MongoDB, MySQL
-- **Cloud**: AWS, Docker
-- **3D & Animation**: React Three Fiber, React Spring
-- **Tools**: Git, Grafana, Prometheus
+### Languages
+<img height="30rem" src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp,cs"/>
+
+### Frontend
+<img height="30rem" src="https://skillicons.dev/icons?i=react,next,tailwind,threejs"/>
+
+### Backend 
+<img height="30rem" src="https://skillicons.dev/icons?i=spring,nodejs,express,unity,gradle"/>
+
+### Databases
+<img height="30rem" src="https://skillicons.dev/icons?i=mongo,mysql"/>
+
+### Cloud
+<img height="30rem" src="https://skillicons.dev/icons?i=aws,docker"/>
+
+### Tools
+<img height="30rem" src="https://skillicons.dev/icons?i=git,grafana,prometheus"/>
 
 ## 💼 What I’m currently working on
 
